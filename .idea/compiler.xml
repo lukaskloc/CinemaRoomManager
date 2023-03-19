@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <bytecodeTargetLevel target="17">
+      <module name="Cinema_Room_Manager.Cinema_Room_Manager-task-build-classes-java.main" target="11" />
+      <module name="Cinema_Room_Manager.Cinema_Room_Manager-task-build-generated-sources-annotationProcessor-java.main" target="11" />
+      <module name="Cinema_Room_Manager.Cinema_Room_Manager-task-build-generated-sources-headers-java.main" target="11" />
+      <module name="Cinema_Room_Manager.Cinema_Room_Manager-task-build-reports-tests.main" target="11" />
+      <module name="Cinema_Room_Manager.Cinema_Room_Manager-task-build-test-results.main" target="11" />
+      <module name="Cinema_Room_Manager.Cinema_Room_Manager-task-build-tmp.main" target="11" />
+      <module name="Cinema_Room_Manager.Cinema_Room_Manager-task.main" target="11" />
+      <module name="Cinema_Room_Manager.Topics-Arrays_as_parameters-How_to_invoke_the_method.main" target="11" />
+      <module name="Cinema_Room_Manager.Topics-Arrays_as_parameters-Inverse_boolean_flags.main" target="11" />
+      <module name="Cinema_Room_Manager.Topics-Arrays_as_parameters-Theory.main" target="11" />
+      <module name="Cinema_Room_Manager.Topics-Branching_statements-A_keyword_to_terminate_the_loop.main" target="11" />
+      <module name="Cinema_Room_Manager.Topics-Branching_statements-Statement_for_skipping_an_iteration.main" target="11" />
+      <module name="Cinema_Room_Manager.Topics-Branching_statements-The_integer_barrier.main" target="11" />
+      <module name="Cinema_Room_Manager.Topics-Branching_statements-The_same_results.main" target="11" />
+      <module name="Cinema_Room_Manager.Topics-Branching_statements-Theory.main" target="11" />
+      <module name="Cinema_Room_Manager.Topics-Comments-Javadoc_comment.main" target="11" />
+      <module name="Cinema_Room_Manager.Topics-Comments-The_countdown.main" target="11" />
+      <module name="Cinema_Room_Manager.Topics-Comments-The_forgotten_comments.main" target="11" />
+      <module name="Cinema_Room_Manager.Topics-Comments-Theory.main" target="11" />
+      <module name="Cinema_Room_Manager.Topics-Comments-Three_numbers.main" target="11" />
+      <module name="Cinema_Room_Manager.Topics-Conditional_statement-Interval.main" target="11" />
+      <module name="Cinema_Room_Manager.Topics-Conditional_statement-Statements.main" target="11" />
+      <module name="Cinema_Room_Manager.Topics-Conditional_statement-The_army_of_units.main" target="11" />
+      <module name="Cinema_Room_Manager.Topics-Conditional_statement-The_condition_to_travel_around_the_world.main" target="11" />
+      <module name="Cinema_Room_Manager.Topics-Conditional_statement-Theory.main" target="11" />
+      <module name="Cinema_Room_Manager.Topics-Declaring_a_method-Find_the_max_of_three_numbers.main" target="11" />
+      <module name="Cinema_Room_Manager.Topics-Declaring_a_method-The_elements_of_a_method.main" target="11" />
+      <module name="Cinema_Room_Manager.Topics-Declaring_a_method-The_sign_of_a_number.main" target="11" />
+      <module name="Cinema_Room_Manager.Topics-Declaring_a_method-Theory.main" target="11" />
+      <module name="Cinema_Room_Manager.Topics-Errors_in_programs-Fix_the_program.main" target="11" />
+      <module name="Cinema_Room_Manager.Topics-Errors_in_programs-Select_the_statement.main" target="11" />
+      <module name="Cinema_Room_Manager.Topics-Errors_in_programs-Theory.main" target="11" />
+      <module name="Cinema_Room_Manager.Topics-Functional_decomposition-A_quadratic_equation.main" target="11" />
+      <module name="Cinema_Room_Manager.Topics-Functional_decomposition-Calculator_with_four_methods.main" target="11" />
+      <module name="Cinema_Room_Manager.Topics-Functional_decomposition-How_to_decompose_correctly.main" target="11" />
+      <module name="Cinema_Room_Manager.Topics-Functional_decomposition-Kate's_math_function.main" target="11" />
+      <module name="Cinema_Room_Manager.Topics-Functional_decomposition-The_main_tools_of_functional_decomposition.main" target="11" />
+      <module name="Cinema_Room_Manager.Topics-Functional_decomposition-Theory.main" target="11" />
+      <module name="Cinema_Room_Manager.Topics-Functional_decomposition-Why_decompose_a_program.main" target="11" />
+      <module name="Cinema_Room_Manager.Topics-Increment_and_decrement-Decrement_all.main" target="11" />
+      <module name="Cinema_Room_Manager.Topics-Increment_and_decrement-Remainder_of_division.main" target="11" />
+      <module name="Cinema_Room_Manager.Topics-Increment_and_decrement-Theory.main" target="11" />
+      <module name="Cinema_Room_Manager.Topics-Increment_and_decrement-What_is_the_result.main" target="11" />
+      <module name="Cinema_Room_Manager.Topics-Increment_and_decrement-What_is_the_result__1_.main" target="11" />
+      <module name="Cinema_Room_Manager.Topics-Integer_types_and_operations-Calculate_the_digit.main" target="11" />
+      <module name="Cinema_Room_Manager.Topics-Integer_types_and_operations-Desks.main" target="11" />
+      <module name="Cinema_Room_Manager.Topics-Integer_types_and_operations-Good_rest_on_vacation.main" target="11" />
+      <module name="Cinema_Room_Manager.Topics-Integer_types_and_operations-How_many_nuts_each_squirrel_will_get.main" target="11" />
+      <module name="Cinema_Room_Manager.Topics-Integer_types_and_operations-Theory.main" target="11" />
+      <module name="Cinema_Room_Manager.Topics-Iterating_over_arrays-Cyclically_shifting_elements.main" target="11" />
+      <module name="Cinema_Room_Manager.Topics-Iterating_over_arrays-Does_an_array_contain_N.main" target="11" />
+      <module name="Cinema_Room_Manager.Topics-Iterating_over_arrays-Select_loops.main" target="11" />
+      <module name="Cinema_Room_Manager.Topics-Iterating_over_arrays-Sum_array_elements_greater_than_a_value.main" target="11" />
+      <module name="Cinema_Room_Manager.Topics-Iterating_over_arrays-Theory.main" target="11" />
+      <module name="Cinema_Room_Manager.Topics-Multidimensional_array-Indexing_rules.main" target="11" />
+      <module name="Cinema_Room_Manager.Topics-Multidimensional_array-Multidimensional_array_features.main" target="11" />
+      <module name="Cinema_Room_Manager.Topics-Multidimensional_array-Symmetric_matrix.main" target="11" />
+      <module name="Cinema_Room_Manager.Topics-Multidimensional_array-Theory.main" target="11" />
+      <module name="Cinema_Room_Manager.Topics-NPE-Avoid_NPE_with_strings.main" target="11" />
+      <module name="Cinema_Room_Manager.Topics-NPE-Return_empty_string_when_argument_is_null.main" target="11" />
+      <module name="Cinema_Room_Manager.Topics-NPE-Theory.main" target="11" />
+      <module name="Cinema_Room_Manager.Topics-NPE-Unknown_input.main" target="11" />
+      <module name="Cinema_Room_Manager.Topics-Printing_data-Jamais_vu.main" target="11" />
+      <module name="Cinema_Room_Manager.Topics-Printing_data-Printing_a_magic_letter.main" target="11" />
+      <module name="Cinema_Room_Manager.Topics-Printing_data-Strong_protection.main" target="11" />
+      <module name="Cinema_Room_Manager.Topics-Printing_data-Theory.main" target="11" />
+      <module name="Cinema_Room_Manager.Topics-Switch_statement-A_simple_calculator.main" target="11" />
+      <module name="Cinema_Room_Manager.Topics-Switch_statement-From_string_to_a_number.main" target="11" />
+      <module name="Cinema_Room_Manager.Topics-Switch_statement-Shape.main" target="11" />
+      <module name="Cinema_Room_Manager.Topics-Switch_statement-Test_learners.main" target="11" />
+      <module name="Cinema_Room_Manager.Topics-Switch_statement-Theory.main" target="11" />
+      <module name="Cinema_Room_Manager.Topics-Types_and_variables-Fill_the_declaration.main" target="11" />
+      <module name="Cinema_Room_Manager.Topics-Types_and_variables-Incorrect_counter.main" target="11" />
+      <module name="Cinema_Room_Manager.Topics-Types_and_variables-Invalid_declaration_of_variables.main" target="11" />
+      <module name="Cinema_Room_Manager.Topics-Types_and_variables-Statements.main" target="11" />
+      <module name="Cinema_Room_Manager.Topics-Types_and_variables-The_name_of_a_variable.main" target="11" />
+      <module name="Cinema_Room_Manager.Topics-Types_and_variables-Theory.main" target="11" />
+      <module name="Cinema_Room_Manager.util.main" target="11" />
+    </bytecodeTargetLevel>
+  </component>
+</project>

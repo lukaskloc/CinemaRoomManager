@@ -1,0 +1,51 @@
+# Project exclude paths
+/.gradle/
+/Cinema Room Manager/task/build/
+/Cinema Room Manager/task/out/
+/Cinema Room Manager/task/out/production/classes/
+/Topics/Arrays as parameters/Inverse boolean flags/out/
+/Topics/Arrays as parameters/Inverse boolean flags/out/production/classes/
+/Topics/Branching statements/The integer barrier/out/
+/Topics/Branching statements/The integer barrier/out/production/classes/
+/Topics/Comments/Three numbers/out/
+/Topics/Comments/Three numbers/out/production/classes/
+/Topics/Conditional statement/The army of units/out/
+/Topics/Conditional statement/The army of units/out/production/classes/
+/Topics/Declaring a method/Find the max of three numbers/out/
+/Topics/Declaring a method/Find the max of three numbers/out/production/classes/
+/Topics/Declaring a method/The sign of a number/out/
+/Topics/Declaring a method/The sign of a number/out/production/classes/
+/Topics/Errors in programs/Fix the program/out/
+/Topics/Errors in programs/Fix the program/out/production/classes/
+/Topics/Functional decomposition/Calculator with four methods/out/
+/Topics/Functional decomposition/Calculator with four methods/out/production/classes/
+/Topics/Functional decomposition/Kate's math function/out/
+/Topics/Functional decomposition/Kate's math function/out/production/classes/
+/Topics/Increment and decrement/Decrement all/out/
+/Topics/Increment and decrement/Decrement all/out/production/classes/
+/Topics/Integer types and operations/Good rest on vacation/out/
+/Topics/Integer types and operations/Good rest on vacation/out/production/classes/
+/Topics/Iterating over arrays/Cyclically shifting elements/out/
+/Topics/Iterating over arrays/Cyclically shifting elements/out/production/classes/
+/Topics/Iterating over arrays/Does an array contain N/out/
+/Topics/Iterating over arrays/Does an array contain N/out/production/classes/
+/Topics/Iterating over arrays/Sum array elements greater than a value/out/
+/Topics/Iterating over arrays/Sum array elements greater than a value/out/production/classes/
+/Topics/Multidimensional array/Symmetric matrix/out/
+/Topics/Multidimensional array/Symmetric matrix/out/production/classes/
+/Topics/NPE/Avoid NPE with strings/out/
+/Topics/NPE/Avoid NPE with strings/out/production/classes/
+/Topics/NPE/Return empty string when argument is null/out/
+/Topics/NPE/Return empty string when argument is null/out/production/classes/
+/Topics/Printing data/Strong protection/out/
+/Topics/Printing data/Strong protection/out/production/classes/
+/Topics/Switch statement/A simple calculator/out/
+/Topics/Switch statement/A simple calculator/out/production/classes/
+/Topics/Switch statement/From string to a number/out/
+/Topics/Switch statement/From string to a number/out/production/classes/
+/Topics/Switch statement/Shape/out/
+/Topics/Switch statement/Shape/out/production/classes/
+/Topics/Switch statement/Test learners/out/
+/Topics/Switch statement/Test learners/out/production/classes/
+/Topics/Types and variables/Fill the declaration/out/
+/Topics/Types and variables/Fill the declaration/out/production/classes/
